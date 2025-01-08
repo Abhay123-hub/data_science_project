@@ -1,1 +1,136 @@
 [2025-01-06 17:22:49,124: INFO: main: Welcome to our custom logging data science ]
+[2025-01-08 06:57:35,680: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-08 06:57:35,689: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-08 06:59:02,065: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-08 06:59:02,100: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-08 06:59:02,108: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-08 06:59:02,112: INFO: common: created directory at: artifacts]
+[2025-01-08 06:59:02,116: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-08 06:59:03,566: INFO: 209364024: artifacts/data_ingestion/data.zip downloaded! with following info
+: Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A554:4D54C:8577:1546B:677DD4DE
+Accept-Ranges: bytes
+Date: Wed, 08 Jan 2025 01:29:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21724-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1736299743.933129,VS0,VE291
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 38b273757095c8f47876dfe3cdc4506689fde0ad
+Expires: Wed, 08 Jan 2025 01:34:03 GMT
+Source-Age: 0
+
+]
+[2025-01-08 07:02:43,034: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-08 07:02:43,039: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-08 07:02:43,042: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-08 07:02:43,048: INFO: common: created directory at: artifacts]
+[2025-01-08 07:02:43,051: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-08 07:02:43,933: INFO: 2514658180: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A554:4D54C:8577:1546B:677DD4DE
+Accept-Ranges: bytes
+Date: Wed, 08 Jan 2025 01:32:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21746-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1736299964.648218,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fca6ae3136946faf377ad93a21d5ef2530b73d8a
+Expires: Wed, 08 Jan 2025 01:37:43 GMT
+Source-Age: 220
+
+]
+[2025-01-08 07:03:42,054: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-08 07:03:42,061: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-08 07:03:42,064: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-08 07:03:42,066: INFO: common: created directory at: artifacts]
+[2025-01-08 07:03:42,069: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-08 07:03:42,556: INFO: 2408168852: artifacts/data_ingestion/data.zip downloaded! with following info
+: Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A554:4D54C:8577:1546B:677DD4DE
+Accept-Ranges: bytes
+Date: Wed, 08 Jan 2025 01:33:42 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21728-DEL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1736300022.280538,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 727ddf125f23a48ebbdc4618af48a29255579a12
+Expires: Wed, 08 Jan 2025 01:38:42 GMT
+Source-Age: 279
+
+]
+[2025-01-08 12:12:12,461: INFO: main: Welcome to our custom logging data science ]
+[2025-01-08 12:12:43,675: INFO: main: Welcome to our custom logging data science ]
+[2025-01-08 12:13:04,498: INFO: main: Welcome to our custom logging data science ]
+[2025-01-08 12:13:04,498: INFO: main: >>>> DATA INGESTION started <<<<<]
+[2025-01-08 12:13:04,510: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-08 12:13:04,518: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-08 12:13:04,527: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-08 12:13:04,529: INFO: common: created directory at: artifacts]
+[2025-01-08 12:13:04,532: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-08 12:13:05,930: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info
+: Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D2C9:23DF:49BD0:70878:677E1E79
+Accept-Ranges: bytes
+Date: Wed, 08 Jan 2025 06:43:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21731-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1736318586.065367,VS0,VE304
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 33534be5f81b746368757bfe5243a608830848ad
+Expires: Wed, 08 Jan 2025 06:48:06 GMT
+Source-Age: 0
+
+]
+[2025-01-08 12:13:05,947: INFO: main: >>> Stage DATA INGESTION completed]
