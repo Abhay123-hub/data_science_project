@@ -1,1 +1,15 @@
-key: value
+COLUMNS:
+  fixed acidity: float64
+  volatile acidity: float64
+  citric acid: float64
+  residual sugar: float64
+  chlorieds: float64
+  free sulphur dioxide: float64
+  total sulphur dioxide: float64
+  density: float64
+  pH: float64
+  sulphates: float64
+  quality: int64
+
+TARGET+COLUMN:
+  name: quality
